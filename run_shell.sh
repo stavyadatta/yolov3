@@ -1,0 +1,1 @@
+python train.py --img 640 --batch 4 --epochs 5 --data road_detect_data.yaml --weights yolov3.pt
